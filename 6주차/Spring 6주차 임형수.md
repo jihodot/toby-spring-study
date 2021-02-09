@@ -1,7 +1,10 @@
 # Spring 6주차
 
 범위: 259~ 3.6 스프링의 JdbcTemplate
+
 발표일: 2/9(화) 21:00
+
+원본링크: https://www.notion.so/engcreed/Spring-6-acacd4bf612e450caece4c547c9f3057
 
 # 4장 예외
 
